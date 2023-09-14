@@ -1,12 +1,3 @@
-const config_set = () => { return { 
-  "court":"ศาลจังหวัดสมุทรสงคราม",
-  "user":"eboard",
-  "pass":"P@ssw0rd",
-  "ip_webapp":"10.37.76.2:8089" 
-}; }
-
-//clg
-
 const  get_Token = async () => {
   const setting = config_set();
   const url = `http://${setting.ip_webapp}/cojUser/api/v1/users/login`;

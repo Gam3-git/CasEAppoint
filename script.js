@@ -161,6 +161,8 @@ const convertDate = (dateString) => {
 // Main function
 document.addEventListener("DOMContentLoaded", async () => {
 
+  alert('55')
+
   const court_el = document.getElementById("court_text");
   court_el.textContent = config_set().court;
 

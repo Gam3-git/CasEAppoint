@@ -2,7 +2,7 @@
 
 Before run caseappoint.Html file
 
-Create config.js file with below detail
+Create config.js file in folder script with below detail
 
 
 const config_set = () => { 

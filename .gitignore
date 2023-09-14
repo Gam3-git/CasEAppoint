@@ -16,4 +16,4 @@
 .env.test.local
 .env.production.local
 
-config.js
+.js

@@ -1,3 +1,14 @@
 # CasEAppoint
-EDIT config_set in Line 2 - 5
-Before run Html file
+
+Before run caseappoint.Html file
+
+Create config.js file Below Detail
+
+const config_set = () => { 
+    return { 
+      "court":"xxxxxxx",
+      "user":"xxxxx",
+      "pass":"xxxxxx",
+      "ip_webapp":"xxxxxxx" 
+    }; 
+}

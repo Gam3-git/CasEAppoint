@@ -1,8 +1,8 @@
 const config_set = () => { return { 
   "court":"ศาลจังหวัดสมุทรสงคราม",
-  "user":"xxxxx",
-  "pass":"xxxxxx",
-  "ip_webapp":"xxxxxxxxxx" 
+  "user":"eboard",
+  "pass":"P@ssw0rd",
+  "ip_webapp":"10.37.76.2:8089" 
 }; }
 
 //clg

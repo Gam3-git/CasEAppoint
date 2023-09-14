@@ -1,8 +1,8 @@
 const config_set = () => { 
     return { 
-      "court":"ศาลจังหวัดสมุทรสงคราม",
-      "user":"eboard",
-      "pass":"P@ssw0rd",
-      "ip_webapp":"10.37.76.2:8089" 
+      "court":"ศาลxxxxxx",
+      "user":"eboardxxxxxxxx",
+      "pass":"Pxxxxxxxxxx",
+      "ip_webapp":"xx.xx.xx.x:xxxx" 
     }; 
 }

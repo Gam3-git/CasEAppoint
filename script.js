@@ -1,5 +1,6 @@
 const  get_Token = async () => {
   const setting = config_set();
+  console.log(setting);
   const url = `http://${setting.ip_webapp}/cojUser/api/v1/users/login`;
   const postBody = {"version":1,"name":setting.user,"passwords":setting.pass};
   try {

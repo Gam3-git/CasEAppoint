@@ -17,5 +17,7 @@ const config_set = () => {
 ________________________________________________________________________________________________
 
 Can Use : Siam ID (In Fill Form Mode) and Smart Card Reader Get Value to input html file
+
+
 In Siam ID set format input : CID => Tab => Tab => Enter
 ________________________________________________________________________________________________

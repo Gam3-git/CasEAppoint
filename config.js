@@ -1,6 +1,6 @@
 const config_set = () => { 
     return { 
-      "court":"ศาลxxxxxxxxx00000000000",
+      "court":"ศาลxxxxxxxxx",
       "user":"eboardxxxxxxxx",
       "pass":"Pxxxxxxxxxx",
       "ip_webapp":"xx.xx.xx.x:xxxx" 

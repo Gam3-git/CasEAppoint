@@ -1,9 +1,8 @@
 # CasEAppoint
 
-Before run caseappoint.Html file
+ก่อนรันไฟล์ caseappoint.Html file
 
-Create config.js file in folder script with below detail
-
+สร้าง ไฟล์ชื่อ config.js file in โฟลเดอร์ script รายละเอียดตามด้านล่าง โดยแก้ไข ข้อมูลให้ถูกต้อง 
 
 const config_set = () => { 
     return { 
@@ -17,9 +16,9 @@ const config_set = () => {
 
 ________________________________________________________________________________________________
 
-Can Use : Siam ID (In Fill Form Mode) and Smart Card Reader Get Value to input html file
+เพิ่มเติม : สามารถใช้ Siam ID (FillForm Mode) และเครื่องอ่านบัตร เพิ่อดึงข้อมูล เฉพาะเลขบัตร มาใช้ค้นหาผ่าน อินพุตของไฟล์ Html ได้
 
 Link : https://software.thaiware.com/11913-Siam-ID-Download.html
 
-In Siam ID set format input : CID => Tab => Tab => Enter
+โดยกำหนดรูปแบบการทำงานของปุ่มใน Siam ID ดังนี้ : CID => Tab => Tab => Enter
 ________________________________________________________________________________________________

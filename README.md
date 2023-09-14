@@ -12,3 +12,6 @@ const config_set = () => {
       "ip_webapp":"xxxxxxx" 
     }; 
 }
+
+
+In ip_webapp set format = ip:port
